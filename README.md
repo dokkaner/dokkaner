@@ -1,3 +1,3 @@
 # dokkaner
-SOON!
-http://www.dokkaner.io/
+LIVE!
+download at http://www.dokkaner.io/
