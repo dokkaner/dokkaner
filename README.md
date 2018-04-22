@@ -1,5 +1,4 @@
-# dokkaner
-download at http://www.dokkaner.io/
+# Dokkaner available at http://www.dokkaner.io/
 
 # CHANGELOG 1.2
 ## APP
